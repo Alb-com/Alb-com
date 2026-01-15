@@ -6,10 +6,10 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-comas-546b831a9/)[![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertcomaas@gmaill.com)
 
 ## About Me
-👨‍💻 I'm a motivated junior focused on growing in data analysis and data science.
+Passionate about data, I am committed to continuous learning and growth in the field of data engineering. I leverage analytical skills to optimize data extraction and performance, ensuring efficient and seamless workflows. Always striving to enhance my expertise and embrace new challenges in the data space.
 
 🧠 I'm currently learning...
 
-
 ## 🛠 Skills
-🐍 Python (NumPy, Pandas, Matplotlib) | ML | PowerBl | MYSQL | Excel 
+📊 Data Engineer with a background in Systems and Network Administration
+🐍 Python (NumPy, Pandas) | MySQL | AWS | Power BI | Excel
