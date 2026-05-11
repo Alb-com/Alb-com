@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./github-header-banner.png" alt="Banner" width="100%" />
 </p>
+
 # Hey, I'm Albert!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-comas-546b831a9/)
